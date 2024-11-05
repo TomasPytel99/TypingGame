@@ -1,0 +1,15 @@
+https://www.flaticon.com/free-icon/apple_3137044?term=fruit&page=1&position=3&origin=tag&related_id=3137044
+https://www.flaticon.com/free-icon/pear_5990602?term=pear&page=1&position=9&origin=tag&related_id=5990602
+https://www.flaticon.com/free-icon/coconut_434254?term=coconut&page=1&position=43&origin=tag&related_id=434254
+https://www.flaticon.com/free-icon/apricot_4579672?term=apricot&related_id=4579672
+https://www.flaticon.com/free-icon/raspberry_6866618?term=raspberry&page=1&position=31&origin=search&related_id=6866618
+https://www.flaticon.com/free-icon/orange_1728765?term=orange&related_id=1728765
+https://www.flaticon.com/free-icon/strawberry_10817995?term=strawberry&page=1&position=29&origin=search&related_id=10817995
+https://www.flaticon.com/free-icon/berry_10441399?term=blueberry&page=3&position=29&origin=search&related_id=10441399
+https://www.flaticon.com/free-icon/blackberry_3341710?term=blackberry&page=1&position=1&origin=search&related_id=3341710
+https://www.flaticon.com/free-icon/mango_3137152?term=mango&page=1&position=2&origin=search&related_id=3137152
+https://www.flaticon.com/free-icon/plum_4057267?term=plum&page=1&position=3&origin=search&related_id=4057267
+https://www.flaticon.com/free-icon/bomb_595582?k=1716906800176&sign-up=google&log-in=google
+https://www.flaticon.com/free-icon/timer_143916?term=timer&related_id=143916
+https://www.flaticon.com/free-icon/loving_2589069?term=heart&related_id=2589069
+https://stackoverflow.com/questions/470097/how-to-represent-a-c-sharp-property-in-uml
